@@ -14,7 +14,7 @@ import { useState } from 'react';
 
 export default function TeamPage() {
   const [members] = useState([
-    { id: '1', name: 'John Doe', email: 'john@example.com', role: 'admin' },
+    { id: '1', name: 'Chan Samnang ', email: 'samnanggchan@.com', role: 'admin' },
     { id: '2', name: 'Jane Smith', email: 'jane@example.com', role: 'member' },
     { id: '3', name: 'Bob Johnson', email: 'bob@example.com', role: 'member' }
   ]);
